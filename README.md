@@ -10,17 +10,17 @@
 ### 🚀 About Me
 
 - 🎓 Master's in Computational Modeling & Simulation – TU Dresden  
-- 📊 From Battery Analytics to Biomedical Imaging – I love solving real-world problems with data  
+- 🔬 I enjoy tackling complex research problems — from Battery Analytics to Biomedical Imaging — using data-driven and machine learning approaches
 - 🤖 Currently exploring GenAI, RAG pipelines, autonomous agents, and vector databases to combine with predictions from Machine learning Models 
-- 🌱 Always learning – currently diving deeper into object detection models, reasoning agents, LangChain, and cloud-native deployments  
-- ✨ I thrive in startup cultures and collaborative research environments
+- 🧠 Always exploring — currently deepening my knowledge in object detection, reasoning agents, LangChain, and cloud-native ML deployments
+- 🚀 I thrive in dynamic startup cultures and collaborative research environments, driven by a passion for research and a desire to turn innovative ideas into real-world impact
 
 ---
 
 ### 💼 What I’ve Built
 
 - **Battery Health Predictor** – LSTM + k-means hybrid model for battery capacity prediction using real SoC data  
-- **Laproscopic Images Semantic Segmenter** – CV pipeline segmenting laparoscopic images using curriculum learning approach
+- **Laproscopic Images Semantic Segmenter** – CV pipeline segmenting laparoscopic images using a curriculum learning approach
 - **Doc2Chat - AI Assitive Chatbot for Invasive Surgeries** – An intelligent surgical document-based chatbot that allows users to interact with PDF files using RAG pipelines and LangChain to make informed decisions before their invasive procedures. 
 - **Natural language powered SQL Database Agent** – A natural language to SQL question-answering tool that uses OpenAI + LangChain to generate and run SQL queries on your database.
 ---
