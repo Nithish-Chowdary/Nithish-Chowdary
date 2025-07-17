@@ -66,5 +66,5 @@
 
 ### 🎯 Fun Fact
 
-> I believe in rapid prototyping and thoughtful problem-solving – where data meets intuition, magic happens. ✨
-> When I’m not building or experimenting, you’ll find me reading books, training, or improving my German. 🇩🇪📚💪
+- I believe in rapid prototyping and thoughtful problem-solving – where data meets intuition, magic happens. ✨
+- When I’m not building or experimenting, you’ll find me reading books, training, or improving my German. 🇩🇪📚💪
