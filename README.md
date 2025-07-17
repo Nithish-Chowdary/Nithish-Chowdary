@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Machine Learning Engineer| AI Enthusiast | Data Explorer</h3>
 
 <p align="center">
- Turning data into insights |  Building GenAI solutions |  Based in Germany  
+ 🔬 Turning data into insights | 🤖 Building GenAI solutions | 🌍 Based in Germany   
 </p>
 
 ---
@@ -51,6 +51,7 @@
 - 📧 Email: **nithish.thagarasapu@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithishthagarasapu/)  
 
+---
 
 ### 🎯 Fun Fact
 
