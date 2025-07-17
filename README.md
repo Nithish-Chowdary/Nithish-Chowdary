@@ -11,7 +11,7 @@
 
 - 🎓 Master's in Computational Modeling & Simulation – TU Dresden  
 - 🔬 I enjoy tackling complex research problems — from Battery Analytics to Biomedical Imaging — using data-driven and machine learning approaches
-- 🤖 Currently exploring GenAI, RAG pipelines, autonomous agents, and vector databases to combine with predictions from Machine learning Models 
+- 🤖 Passionate about Object Detection, Image Classification, GenAI, RAG pipelines, autonomous agents, and vector databases — combining machine learning predictions with the generative capabilities of modern AI systems
 - 🧠 Always exploring — currently deepening my knowledge in object detection, reasoning agents, LangChain, and cloud-native ML deployments
 - 🚀 I thrive in dynamic startup cultures and collaborative research environments, driven by a passion for research and a desire to turn innovative ideas into real-world impact
 
