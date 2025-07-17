@@ -25,15 +25,23 @@
 - **Natural language powered SQL Database Agent** – A natural language to SQL question-answering tool that uses OpenAI + LangChain to generate and run SQL queries on your database.
 ---
 
-### 🧰 Languages & Tools
+### 🔨 Tech Stack & Tools
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="40" height="40"/></a>
+  <a href="https://www.gradio.app/" target="_blank"><img src="https://gradio.app/assets/img/logo.svg" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/130192820?s=200&v=4" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/></a>
+  <a href="https://github.com/facebookresearch/faiss" target="_blank"><img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/resources/logo.png" width="40" height="40"/></a>
 </p>
 
 ---
