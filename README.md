@@ -11,19 +11,18 @@
 
 - 🎓 Master's in Computational Modeling & Simulation – TU Dresden  
 - 📊 From Battery Analytics to Biomedical Imaging – I love solving real-world problems with data  
-- 🤖 Currently exploring GenAI, RAG pipelines, autonomous agents, and vector databases  
-- 🌱 Always learning – currently diving deeper into reasoning agents, LangChain, and cloud-native deployments  
+- 🤖 Currently exploring GenAI, RAG pipelines, autonomous agents, and vector databases to combine with predictions from Machine learning Models 
+- 🌱 Always learning – currently diving deeper into object detection models, reasoning agents, LangChain, and cloud-native deployments  
 - ✨ I thrive in startup cultures and collaborative research environments
 
 ---
 
 ### 💼 What I’ve Built
 
-- 🔋 **Battery Health Predictor** – LSTM + k-means hybrid model for capacity prediction using real SoC data  
-- 🧠 **Surgical Image Segmenter** – CV pipeline segmenting laparoscopic images using curriculum learning  
-- 💌 **Autonomous Email Agent** – AI agents that read, sort, and respond to emails with LangChain & LangGraph  
-- 📈 **Stock Sentiment RAG App** – Scraping financial news, analyzing sentiment, linking stock prices, and storing insights in a vector DB
-
+- **Battery Health Predictor** – LSTM + k-means hybrid model for battery capacity prediction using real SoC data  
+- **Laproscopic Images Semantic Segmenter** – CV pipeline segmenting laparoscopic images using curriculum learning approach
+- **Doc2Chat - AI Assitive Chatbot for Invasive Surgeries** – An intelligent surgical document-based chatbot that allows users to interact with PDF files using RAG pipelines and LangChain to make informed decisions before their invasive procedures. 
+- **Natural language powered SQL Database Agent** – A natural language to SQL question-answering tool that uses OpenAI + LangChain to generate and run SQL queries on your database.
 ---
 
 ### 🧰 Languages & Tools
@@ -42,8 +41,8 @@
 ### 📫 How to Reach Me
 
 - 📧 Email: **nithish.thagarasapu@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nithish-thagarasapu)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) <!-- optional if you have one -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithishthagarasapu/)  
+
 
 ---
 
