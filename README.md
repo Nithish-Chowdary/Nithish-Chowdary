@@ -2,12 +2,12 @@
 <h3 align="center">A Passionate Machine Learning Engineer| AI Enthusiast | Data Explorer</h3>
 
 <p align="center">
-🔬 Turning data into insights | 🤖 Building GenAI solutions | 🌍 Based in Germany  
+ Turning data into insights |  Building GenAI solutions |  Based in Germany  
 </p>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 Master's in Computational Modeling & Simulation – TU Dresden  
 - 🔬 I enjoy tackling complex research problems — from Battery Analytics to Biomedical Imaging — using data-driven and machine learning approaches
@@ -51,18 +51,6 @@
 - 📧 Email: **nithish.thagarasapu@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithishthagarasapu/)  
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithish-Chowdary&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish-Chowdary&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
 
 ### 🎯 Fun Fact
 
